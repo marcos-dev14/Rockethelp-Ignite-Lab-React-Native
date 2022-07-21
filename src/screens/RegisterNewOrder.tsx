@@ -8,7 +8,7 @@ import { Header } from '../components/Header';
 import { Input } from '../components/Input';
 import { Button } from '../components/Button';
 
-export function Register() {
+export function RegisterNewOrder() {
   const [isLoading, setIsLoading] = useState(false);
   const [patrimony, setPatrimony] = useState('');
   const [description, setDescription] = useState('');
