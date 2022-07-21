@@ -1,4 +1,4 @@
-package com.rockethelpignitelab.newarchitecture;
+package com.rockethelp.mpdev.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.rockethelpignitelab.BuildConfig;
-import com.rockethelpignitelab.newarchitecture.components.MainComponentsRegistry;
-import com.rockethelpignitelab.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.rockethelp.mpdev.BuildConfig;
+import com.rockethelp.mpdev.newarchitecture.components.MainComponentsRegistry;
+import com.rockethelp.mpdev.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

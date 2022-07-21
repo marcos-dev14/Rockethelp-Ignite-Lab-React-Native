@@ -1,4 +1,4 @@
-package com.rockethelpignitelab;
+package com.rockethelp.mpdev;
 
 import android.os.Build;
 import android.os.Bundle;
