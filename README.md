@@ -21,5 +21,4 @@ Evento da [Rocketseat](https://www.youtube.com/c/RocketSeat). Aplicativo para co
 - [Expo](https://expo.dev)
 - [React Navigation](https://reactnavigation.org)
 - [Native Base](https://nativebase.io)
-- [React Hook Form](https://react-hook-form.com)
 - [Firebase](https://firebase.google.com)
